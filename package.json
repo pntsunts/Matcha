@@ -1,0 +1,16 @@
+{
+  "name": "matcha",
+  "version": "1.0.0",
+  "description": "Simple dating app-> specifically for those wanna fuck really hard hard man",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Peter Ntsuntsha",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.4.0",
+    "node_module": "0.0.0"
+  }
+}
